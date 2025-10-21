@@ -1,0 +1,7 @@
+{
+  "name": "AI Meeting Summarizer",
+  "description": "An AI-powered web application that takes a meeting transcript, summarizes it, and extracts key action items using the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
